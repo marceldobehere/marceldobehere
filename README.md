@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Marcel (aka Marceldobehere or Masldasl or Marceldarcel or *the black magic rocc*)
 
 I mostly code in C# and Java but also have some experince in other langs like Python, C++, BF, JS.
-I also made some langs like S-CODE, BSSL, ProtoLang, MROL (not released yet ^-^), BFDOS and the MAHCPU langs.
+I also made some langs like S-CODE, BSSL, ProtoLang, ROSL, ROML, BFDOS and the MAHCPU langs.
 
-I also do a lot of dumb but fun projects like, my game Engine (actually more of a Framework), a custom "Web"server with its own Browser (not released yet ^-^), a lot of programming languages and intepreters, custom CPU-Emulators, etc.
+I also do a lot of dumb but fun projects like, my game Engine (actually more of a Framework), a custom "Web"server with its own Browser, a lot of programming languages and intepreters, custom CPU-Emulators, etc.
 
 Do not question my black magic code and ideas.
 
