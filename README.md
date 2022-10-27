@@ -7,8 +7,9 @@ I also do a lot of dumb but fun projects like, my game Engine (actually more of 
 
 Do not question my black magic code and ideas.
 
-Also heres my discord lol: ***marceldarcel#8217*** and [my *beautiful* test website](https://www.marceldobehere.tk).
+Also here is my discord lol: ***marceldarcel#8217*** and [my *beautiful* test website](https://www.marceldobehere.tk).
 
+Here is my [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw).
 
 #### Here are some stats ig:
 
