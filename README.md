@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Marcel (aka *the black magic rocc*)
 
-I mostly code in C#/C++ and Java but also have some experince in other langs like Python, BF, JS.
+I mostly code in C#/C++ and Java but also know Python, Javascript/HTML/CSS, Brainfuck, etc.
 I also made some langs like S-CODE, BSSL, ProtoLang, ROSL, ROML, BFDOS and the MAHCPU langs.
 
 I also do a lot of fun projects like: [MaslOS](https://github.com/marceldobehere/MaslOS), [Marcel Engine](https://github.com/marceldobehere/Marcel-Engine), [my 3D Raycaster](https://github.com/marceldobehere/SDL2-Raycasting-test-or-something-idek), [my custom Web Browser/Server](https://github.com/marceldobehere/custom-web-browser-and-server), a lot of programming languages, intepreters, etc.
