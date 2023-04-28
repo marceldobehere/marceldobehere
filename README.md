@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Marcel (aka *the black magic rocc*)
 
-I mostly code in C#/C++ and Java but also know Python, Javascript/HTML/CSS, etc.
+I mostly code in C#/C++ and Java but also know Python, Javascript/HTML/CSS, etc. Also can do a bit of SQL stuff.
 
 I also made some langs like [MAAL](https://github.com/marceldobehere/MAAL-Marcels-Amazing-Assembly-Language), [S-CODE](https://github.com/marceldobehere/S-CODE-TO-BF), [BSSL](https://github.com/marceldobehere/BSSL), [ROSL](https://github.com/marceldobehere/custom-web-browser-and-server), [ROML](https://github.com/marceldobehere/custom-web-browser-and-server), [ProtoLang](https://github.com/marceldobehere/ProtoLang), etc.
 
