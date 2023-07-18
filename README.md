@@ -10,9 +10,9 @@ I also do a lot of fun projects like: [MaslOS](https://github.com/marceldobehere
 
 Do not question my black magic code and ideas.
 
-My Discord: ***marceldarcel#8217***
+My Discord: ***marceldarcel***
 
-My (ded) [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw).
+My (dead) [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw). (MaslOS showcase coming soon??)
 
 
 
