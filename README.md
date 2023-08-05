@@ -1,18 +1,20 @@
-### Hi there 👋 I am Marcel (aka *the black magic rocc*)
+### Yo, I am Marcel (aka **the black magic rocc programmer**)
 
-I mostly code in C#/C++ and Java but also know Python, Javascript/HTML/CSS, etc. Also can do a bit of SQL stuff.
+I mostly code in C#/C++ and Java but also know Python, HTML/CSS/JS,  SQL, etc. 
 
-I also made some langs like [MAAL](https://github.com/marceldobehere/MAAL-Marcels-Amazing-Assembly-Language), [S-CODE](https://github.com/marceldobehere/S-CODE-TO-BF), [BSSL](https://github.com/marceldobehere/BSSL), [ROSL](https://github.com/marceldobehere/custom-web-browser-and-server), [ROML](https://github.com/marceldobehere/custom-web-browser-and-server), [ProtoLang](https://github.com/marceldobehere/ProtoLang), etc.
+I do a lot of fun projects like: 
+[MaslOS](https://github.com/marceldobehere/MaslOS), [Marcel Engine](https://github.com/marceldobehere/Marcel-Engine), [my 3D Raycaster](https://github.com/marceldobehere/SDL2-Raycasting-test-or-something-idek), [my custom Web Browser/Server](https://github.com/marceldobehere/custom-web-browser-and-server), etc.
 
 
+I also made some programming languages like:
+[MAAL](https://github.com/marceldobehere/MAAL-Marcels-Amazing-Assembly-Language), [S-CODE](https://github.com/marceldobehere/S-CODE-TO-BF), [BSSL](https://github.com/marceldobehere/BSSL), [ROSL](https://github.com/marceldobehere/custom-web-browser-and-server), [ROML](https://github.com/marceldobehere/custom-web-browser-and-server), [ProtoLang](https://github.com/marceldobehere/ProtoLang), etc.
 
-I also do a lot of fun projects like: [MaslOS](https://github.com/marceldobehere/MaslOS), [Marcel Engine](https://github.com/marceldobehere/Marcel-Engine), [my 3D Raycaster](https://github.com/marceldobehere/SDL2-Raycasting-test-or-something-idek), [my custom Web Browser/Server](https://github.com/marceldobehere/custom-web-browser-and-server), a lot of programming languages, intepreters, etc.
 
-Do not question my black magic code and ideas.
+My Discord: **marceldarcel**
 
-My Discord: ***marceldarcel***
+My Email: marcel.zietek06@gmail.com
 
-My (dead) [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw). (MaslOS showcase coming soon??)
+My [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw).
 
 
 
@@ -26,3 +28,8 @@ My (dead) [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw). (
 
 #### Visitor Count
 <img src="https://profile-counter.glitch.me/marceldobehere/count.svg" />
+
+
+
+
+Do not question my black magic code and ideas.
