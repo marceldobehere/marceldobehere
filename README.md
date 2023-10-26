@@ -16,7 +16,7 @@ My Email: marcel.zietek06@gmail.com
 
 My [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw).
 
-My [Website](https://www.marceldobehere.com/). (Currently links to my goofy e2e chat app. Also ignore the SSL certificate being bad smh)
+My [Website](https://www.marceldobehere.com/). (Currently links to my goofy e2e chat app)
 
 
 #### Here are some stats I guess:
