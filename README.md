@@ -12,7 +12,7 @@ I also made some programming languages like:
 
 My Discord: **marceldarcel**
 
-My Email: marcel.zietek06@gmail.com
+My Email: marcel.z2006@gmail.com
 
 My [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw).
 
