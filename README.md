@@ -9,6 +9,7 @@ I do a lot of fun projects like:
 I also made some programming languages like:
 [MAAL](https://github.com/marceldobehere/MAAL-Marcels-Amazing-Assembly-Language), [S-CODE](https://github.com/marceldobehere/S-CODE-TO-BF), [BSSL](https://github.com/marceldobehere/BSSL), [ROSL](https://github.com/marceldobehere/custom-web-browser-and-server), [ROML](https://github.com/marceldobehere/custom-web-browser-and-server), [ProtoLang](https://github.com/marceldobehere/ProtoLang), etc.
 
+My [Website](https://www.marceldobehere.com/). 
 
 My Discord: **marceldarcel**
 
@@ -16,7 +17,7 @@ My Email: marcel.z2006@gmail.com
 
 My [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw).
 
-My [Website](https://www.marceldobehere.com/). (Currently only links to goofy chat app)
+
 
 
 #### Here are some stats I guess:
