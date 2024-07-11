@@ -1,6 +1,6 @@
 ### Yo, I am Marcel (aka **the black magic rocc programmer**)
 
-I mostly code in C#/C++ and Java but also know Python, HTML/CSS/JS,  SQL, etc. 
+I mostly code in C#/C++ and Java but also know Python, HTML/CSS/JS, SQL, Clojure, etc. 
 
 I do a lot of fun projects like: 
 [MaslOS2](https://github.com/marceldobehere/MaslOS-2), [Marcel Engine](https://github.com/marceldobehere/Marcel-Engine), [my 3D Raycaster](https://github.com/marceldobehere/SDL2-Raycasting-test-or-something-idek), [my custom Web Browser/Server](https://github.com/marceldobehere/custom-web-browser-and-server), etc.
@@ -13,7 +13,7 @@ My [Website](https://marceldobehere.com/).
 
 My Discord: **marceldarcel**
 
-My Email: marcel.z2006@gmail.com
+My Email: marcel.z2006(at)gmail(dot)com
 
 My [Youtube](https://www.youtube.com/channel/UCxFma9-3-LQiwhHNWqEsaXw).
 
