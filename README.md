@@ -1,8 +1,8 @@
-### Yo, I am Marcel (aka **the black magic rocc programmer**)
+### Yoo, I am Marcel (aka **the black magic rocc programmer**)
 
 I mostly code in C#/C++ and Java but also know Python, HTML/CSS/JS, SQL, Clojure, etc. 
 
-I have made a lot of fun & open source projects, including: [Goofy Media](https://github.com/marceldobehere/goofy-media-front), 
+I have made a lot of fun & open source projects, including: [Goofy Media](https://goofy.media/), 
 [MaslOS2](https://github.com/marceldobehere/MaslOS-2), [Marcel Engine](https://github.com/marceldobehere/Marcel-Engine), [my 3D Raycaster](https://github.com/marceldobehere/SDL2-Raycasting-test-or-something-idek), [my custom Web Browser/Server](https://github.com/marceldobehere/custom-web-browser-and-server), etc.
 
 
